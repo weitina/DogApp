@@ -21,11 +21,9 @@ Widok aplikacji
 
 ![Screen1](Obraz3.png) ![Screen2](Obraz2.png) ![Screen3](Obraz1.png) ![Screen4](image.png) 
 
-*(Wskazówka: Wrzuć screeny do folderu w repozytorium i podmień linki powyżej)*
-
-## 🛠 Instrukcja uruchomienia
+Instrukcja uruchomienia
 1. Sklonuj repozytorium:
-   `git clone https://github.com/TwojLogin/MovieApp-JetpackCompose.git`
+   `git clone https://github.com/weitina/DogApp.git`
 2. Otwórz projekt w **Android Studio**.
 3. Poczekaj na synchronizację plików **Gradle**.
 4. Uruchom aplikację na emulatorze lub fizycznym smartfonie z Androidem (min. API 24).
