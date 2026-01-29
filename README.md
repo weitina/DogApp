@@ -1,5 +1,5 @@
 **DogApp - Atlas Ras Psów**
-*Prosta aplikacja mobilna na system Android, służąca do przeglądania listy ras psów. Projekt został wykonany w celu przećwiczenia architektury Model-Widok-Kontroler (MVC) oraz nowoczesnego budowania interfejsu w Jetpack Compose.*
+Prosta aplikacja mobilna na system Android, służąca do przeglądania listy ras psów. Projekt został wykonany w celu przećwiczenia architektury Model-Widok-Kontroler (MVC) oraz nowoczesnego budowania interfejsu w Jetpack Compose.
 
 **O aplikacji**
 Aplikacja wyświetla dynamiczną listę ras psów. Użytkownik może przeglądać listę, a po kliknięciu w konkretną pozycję, system rejestruje to zdarzenie.
