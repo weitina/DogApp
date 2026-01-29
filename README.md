@@ -19,7 +19,7 @@ Material Design 3: Nowoczesne komponenty interfejsu.
 
 Widok aplikacji
 
-| ![Screen1](link_do_zdjecia_1) | ![Screen2](link_do_zdjecia_2) |
+| ![Screen1](Obraz3) | ![Screen2](Obraz2) | ![Screen3](Obraz1) | ![Screen4](image) |
 
 *(Wskazówka: Wrzuć screeny do folderu w repozytorium i podmień linki powyżej)*
 
